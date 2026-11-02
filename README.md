@@ -4,6 +4,7 @@
 > Automated fault detection, wafer batch quality classification, and predictive maintenance built on modular data pipelines, DVC versioning, and standardized model evaluation.
 
 <p align="center">
+  <a href="https://github.com/krishujeniya/WaferGuard/actions/workflows/ci.yml"><img src="https://github.com/krishujeniya/WaferGuard/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.9+" />
   <img src="https://img.shields.io/badge/DVC-Data_Version_Control-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
   <img src="https://img.shields.io/badge/Architecture-Modular_MLOps-0052CC?style=for-the-badge" alt="MLOps" />
