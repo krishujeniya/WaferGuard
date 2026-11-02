@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+authors:
+  - family-names: "Ujeniya"
+    given-names: "Krish"
+title: "WaferGuard: Predictive Maintenance & Sensor Fault Classification for Semiconductor Wafers"
+version: 1.0.0
+date-released: 2026-11-02
+url: "https://github.com/krishujeniya/WaferGuard"
+keywords:
+  - "mlops"
+  - "predictive-maintenance"
+  - "dvc"
+  - "anomaly-detection"
